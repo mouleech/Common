@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHtml="MOON"
+document.getElementById("demo").innerHTML="MOON"
